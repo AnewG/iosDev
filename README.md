@@ -9,3 +9,7 @@ https://medium.com/@NickYu/swift%E9%97%9C%E9%8D%B5%E5%AD%97-autoclosure%E7%A0%94
 属性观察器 willSet didSet
 
 https://swiftgg.gitbook.io/swift/swift-jiao-cheng/10_properties#property-observers
+
+引用类型：强引用/弱引用/无主引用
+
+https://swiftgg.gitbook.io/swift/swift-jiao-cheng/23_automatic_reference_counting
