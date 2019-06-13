@@ -13,3 +13,7 @@ https://swiftgg.gitbook.io/swift/swift-jiao-cheng/10_properties#property-observe
 引用类型：强引用/弱引用/无主引用
 
 https://swiftgg.gitbook.io/swift/swift-jiao-cheng/23_automatic_reference_counting
+
+构造过程：
+
+https://swiftgg.gitbook.io/swift/swift-jiao-cheng/14_initialization#default_initializers
