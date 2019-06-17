@@ -20,4 +20,4 @@ https://swiftgg.gitbook.io/swift/swift-jiao-cheng/14_initialization#default_init
 
 Xcode:
 
-组件与代码建立关联 IBOutlet
+组件与代码建立关联 IBOutlet，IBOutlet关键字是InterfaceBuilderOutlet的缩写
