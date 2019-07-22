@@ -29,3 +29,11 @@ IBAction，它用于允许代码响应用户与应用程序界面的交互行为
 Segue:
 
 https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E6%95%99%E5%AE%A4/%E7%B0%A1%E6%98%93%E8%AA%AA%E6%98%8Excode%E4%B8%AD%E7%9A%84%E9%A1%AF%E7%A4%BA%E4%B8%8B%E4%B8%80%E5%80%8B%E7%95%AB%E9%9D%A2%E6%96%B9%E6%B3%95-%E7%94%B1%E7%A8%8B%E5%BC%8F%E8%A7%B8%E7%99%BC%E7%9A%84%E6%96%B9%E5%BC%8F-segue-95a42506b7fb
+
+包管理：
+
+https://medium.com/%E5%BD%BC%E5%BE%97%E6%BD%98%E7%9A%84-swift-ios-app-%E9%96%8B%E7%99%BC%E5%95%8F%E9%A1%8C%E8%A7%A3%E7%AD%94%E9%9B%86/%E4%BD%BF%E7%94%A8-spm-%E5%AE%89%E8%A3%9D%E7%AC%AC%E4%B8%89%E6%96%B9%E5%A5%97%E4%BB%B6-xcode-11-%E6%96%B0%E5%8A%9F%E8%83%BD-2c4ffcf85b4b
+
+分发测试应用：
+
+TestFlight
