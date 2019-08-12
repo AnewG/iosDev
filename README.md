@@ -24,6 +24,8 @@ https://swifter.tips/init-keywords/  DESIGNATED，CONVENIENCE 和 REQUIRED
 
 Xcode选择创建模版：https://medium.com/@nwy0206/swift%E7%AD%86%E8%A8%98-xcode-project-templates%E7%9A%84%E5%B7%AE%E7%95%B0-abb9315eb35a
 
+cocoa touch framework 等为创建或使用框架而设
+
 组件与代码建立关联 IBOutlet，IBOutlet关键字是InterfaceBuilderOutlet的缩写
 
 IBAction，它用于允许代码响应用户与应用程序界面的交互行为
